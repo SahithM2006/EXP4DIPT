@@ -106,7 +106,7 @@ plt.title("Translated Image")
 plt.axis('off')
 plt.show()
 ```
-<img width="731" height="432" alt="image" src="https://github.com/user-attachments/assets/0c439e9d-cea1-4045-92e7-7ec94feea656" />
+<img width="691" height="433" alt="image" src="https://github.com/user-attachments/assets/e4e20a7f-6819-4562-9d11-0404cb31807c" />
 
 ### Step 3: Image Scaling
 
